@@ -1,0 +1,3 @@
+[submodule "dynamic-tree"]
+	path = dynamic-tree
+	url = https://github.com/yjwoo14/dynamic-tree
